@@ -1,0 +1,11 @@
+review_id,product_id,product_name,reviewer_name,review_date,rating,review
+R1,P1,Smartphone X,Alice,01-06-2024,5,The battery life is amazing. It lasts all day without charging.
+R2,P2,Smartphone X,Bob,02-06-2024,5,I love the camera quality! The night mode is fantastic.
+R3,P3,Smartphone X,Charlie,03-06-2024,2,The screen is too dim outdoors. Not happy with the brightness.
+R4,P1,Smartphone Y,David,04-06-2024,2,Speaker quality is poor. Sound cracks at high volume.
+R5,P2,Smartphone Y,Eva,05-06-2024,5,Great performance and fast processor. Very smooth multitasking.
+R6,P3,Smartphone Y,Frank,06-06-2024,3,The phone heats up quickly when gaming.
+R7,P1,Smartphone Z,Grace,07-06-2024,4,The design is sleek and modern. Looks very premium.
+R8,P2,Smartphone Z,Hannah,08-06-2024,2,Battery drains fast during video calls. Needs improvement.
+R9,P3,Smartphone Z,Ian,09-06-2024,3,Camera is average. Not worth the hype.
+R10,P1,Smartphone Z,Julia,10-06-2024,5,Charging is super quick. Gets to 100% in under an hour.
